@@ -1,0 +1,8 @@
+{
+  "name": "gobject-introspection-test",
+  "version-string": "0.0.1",
+  "dependencies": [
+    {"name":"pkgconf"},
+    {"name":"gtk", "features":["introspection"]}
+  ]
+}
